@@ -1,0 +1,11 @@
+C:\Users\Atrial\Desktop\кп\var 5\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Atrial\Desktop\кп\var 5\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Atrial\Desktop\кп\var 5\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Atrial\Desktop\кп\var 5\WindowsFormsApp3\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\Atrial\Desktop\кп\var 5\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.aboutForm.resources
+C:\Users\Atrial\Desktop\кп\var 5\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Atrial\Desktop\кп\var 5\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Atrial\Desktop\кп\var 5\WindowsFormsApp3\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Atrial\Desktop\кп\var 5\WindowsFormsApp3\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Atrial\Desktop\кп\var 5\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Atrial\Desktop\кп\var 5\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
